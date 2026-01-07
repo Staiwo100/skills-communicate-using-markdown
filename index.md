@@ -8,3 +8,7 @@ Added a header to the file.
 ``` java
 int myInt = 10;
 ```
+
+- [ ] Meet lebron
+- [ ] Meet jalen johnson
+- [ ] Meet Alex Sarr
